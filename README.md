@@ -9,3 +9,5 @@
 -'App.tsx' ve ./src/ dizinindeki 'screens' ve 'components' içeriğini projenize dahil ederek test edebilirsiniz. 
 
 -Proje videosu: https://www.youtube.com/shorts/xlP0Mx33oZ4
+
+
